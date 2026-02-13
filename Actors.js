@@ -15,7 +15,7 @@ function Actors(){
                 id:2,
                 name:'Ranbir Kapoor',
                 qual: 'Movie Actor',
-                pic: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaiUPlRLguTr_DnEXsYxpiugR9FxdFph34g&s',
+                pic: 'https://i.cdn.newsbytesapp.com/images/l48820251122161139.jpeg',
                 exp:'20 years acting experience starred in super hit bollywood movies',
                 desc:'Ranbir Kapoor is a leading Bollywood actor known for his intense performances. He earned critical acclaim for films like Rockstar and Barfi!. He belongs to the famous Kapoor film family of India. Ranbir is married to actress Alia Bhatt.'
             },
@@ -81,4 +81,5 @@ each.map((item) =>(
 );
 }
 export default Actors;
+
 
